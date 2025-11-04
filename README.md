@@ -1,8 +1,20 @@
+# Repo Structure 
+<pre>
+File-Encryptor-Tool/
+│
+├─ File_Encryption_Decryption_Tool.py
+├─ Encryption Decryption App /
+│  ├─core_encrypt_decrypt.py
+│  ├─encrypt_tool_gui.py   
+|  ├─icon.ico
+|  ├─README.md     
+└─ README.md
+   
+</pre>
+
 # File Encryption-Decryption Tool
 
 ## Run File Encryption / Decryption Tool
-
-
 
 ## Getting Started
 Dependencies :  
