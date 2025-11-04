@@ -1,11 +1,19 @@
 # File Encryption-Decryption Tool
 
+## Run File Encryption / Decryption Tool
+
+
+
 ## Getting Started
 Dependencies :  
 Python 3.8+ is installed  
 pip install cryptography  
 
-Run Python Complete Python Script ['File Encryption Decryption Tool'](File_Encryption_Decryption_Tool.py)
+Run Python Complete Python Script in IDE ['File Encryption Decryption Tool'](File_Encryption_Decryption_Tool.py)  
+
+```bash
+python File_Encryption_Decryption_Tool.py
+```
 
 
 ## Project Overview
