@@ -1,14 +1,18 @@
 # Repo Structure 
 <pre>
+
 File-Encryptor-Tool/
 │
-├─ File_Encryption_Decryption_Tool.py
-├─ Encryption Decryption App /
-│  ├─core_encrypt_decrypt.py
-│  ├─encrypt_tool_gui.py   
-|  ├─icon.ico
-|  ├─README.md     
+├─ File_Encryption_Decryption_Tool.py     # Single–script version
+│
+├─ Encryption-Decryption-App/             # Folder for GUI standalone version
+│  ├─ core_encrypt_decrypt.py
+│  ├─ encrypt_tool_gui.py
+│  ├─ icon.ico
+│  └─ README.md
+│
 └─ README.md
+  
    
 </pre>
 
