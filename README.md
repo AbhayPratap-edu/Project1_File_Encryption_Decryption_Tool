@@ -22,11 +22,14 @@ File-Encryptor-Tool/
 
 ## Getting Started
 Dependencies :  
-Python 3.8+  install  
-```blash
+```bash
+install Python 3.8+  
+```
+
+```bash
 pip install cryptography  
 ```
-Run Python Complete Python Script in IDE [`File Encryption Decryption Tool`](File_Encrypt_Decrypt_Tool.py)  
+Run Complete Python Script in IDE [`File Encryption Decryption Tool`](File_Encrypt_Decrypt_Tool.py)  
 
 ```bash
 python File_Encryption_Decryption_Tool.py
