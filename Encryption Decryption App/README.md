@@ -7,8 +7,9 @@ icon.ico
 
 ## Run this code in Terminal
 
-```python
-
+```bash
+pip install pyinstaller
+```
+```bash
  pyinstaller --onefile --windowed --icon=icon.ico --clean encrypt_tool_gui.py
-
 ```
