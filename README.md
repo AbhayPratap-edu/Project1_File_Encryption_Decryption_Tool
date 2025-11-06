@@ -39,7 +39,10 @@ python File_Encryption_Decryption_Tool.py
 ## Project Overview
 A Python-based desktop application that provides secure file encryption and decryption using password-derived keys.  
 Each file is encrypted with its own random key, which is then protected by the user's password, eliminating the need for external key files.  
-The application supports all types of files and features a user-friendly graphical interface built with Tkinter.
+The application supports all types of files and features a user-friendly graphical interface built with Tkinter.  
+
+![File-Encryptor-Decryptor-Tool](Encryption%20Decryption%20App/Screenshot-Encryptor-Tool.png)
+
 
 ## Tools and Technologies Used
 - **Python 3.8+**: Programming language used for development.
